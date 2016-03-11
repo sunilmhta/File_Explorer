@@ -16,7 +16,8 @@
             android:id="@+id/path"
             android:layout_width="340dp"
             android:layout_height="fill_parent"
-            android:textSize="25sp"/>
+            android:textSize="25sp"
+            android:textStyle="italic"/>
 
         <Button
             android:layout_width="wrap_content"
@@ -33,7 +34,9 @@
         android:layout_height="500dp"
         android:layout_below="@+id/linearLayout"
         android:layout_above="@+id/linearLayout2"
-        android:background="#BDB76B"/>
+        android:background="#BDB76B"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <LinearLayout
         android:layout_alignParentBottom="true"
@@ -42,6 +45,14 @@
         android:layout_width="match_parent"
         android:background="#FFD700"
         android:id="@+id/linearLayout2">
+
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:text="NF"
+            android:id="@+id/button2" />
     </LinearLayout>
 
 </RelativeLayout>
