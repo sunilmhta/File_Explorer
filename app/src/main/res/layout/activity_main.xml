@@ -32,7 +32,8 @@
         android:layout_width="match_parent"
         android:layout_height="500dp"
         android:layout_below="@+id/linearLayout"
-        android:layout_above="@+id/linearLayout2" />
+        android:layout_above="@+id/linearLayout2"
+        android:background="#BDB76B"/>
 
     <LinearLayout
         android:layout_alignParentBottom="true"
