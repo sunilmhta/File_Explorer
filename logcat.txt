@@ -1,0 +1,652 @@
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+cannot bind 'tcp:5037'
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+* daemon started successfully *
+adb server is out of date.  killing...
+* daemon started successfully *
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+adb server is out of date.  killing...
+* daemon started successfully *
+--------- beginning of /dev/log/main
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8d01900): name, size, mSize = 5004, 92416, 2258624
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8ca2640): name, size, mSize = 5005, 36864, 2295488
+D/dalvikvm(  720): WAIT_FOR_CONCURRENT_GC blocked 0ms
+--------- beginning of /dev/log/system
+W/genymotion_audio(  129): out_write() limiting sleep time 116462 to 39909
+D/dalvikvm(  720): GC_EXPLICIT freed 438K, 46% free 18116K/33479K, paused 0ms+0ms, total 6ms
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8d11f90): name, size, mSize = 5008, 128, 2295616
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8bf75a0): name, size, mSize = 5009, 256, 2295872
+W/genymotion_audio(  129): out_write() limiting sleep time 78027 to 39909
+W/genymotion_audio(  129): out_write() limiting sleep time 59342 to 39909
+W/genymotion_audio(  129): out_write() limiting sleep time 41564 to 39909
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e33ae8): name, size, mSize = 5083, 36864, 2332736
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e76c48): name, size, mSize = 5084, 36864, 2369600
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e55ba8): name, size, mSize = 5085, 36864, 2406464
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e68938): name, size, mSize = 5086, 36864, 2443328
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e68bf0): name, size, mSize = 5087, 36864, 2480192
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e711a0): name, size, mSize = 5088, 36864, 2517056
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e71330): name, size, mSize = 5089, 36864, 2553920
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e72910): name, size, mSize = 5090, 36864, 2590784
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e72a60): name, size, mSize = 5091, 36864, 2627648
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e25f40): name, size, mSize = 5092, 36864, 2664512
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8d11ec8): name, size, mSize = 5094, 36864, 2701376
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e72f30): name, size, mSize = 5095, 36864, 2738240
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e773f0): name, size, mSize = 5096, 36864, 2775104
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8ca6720): name, size, mSize = 5097, 36864, 2811968
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8dd86c0): name, size, mSize = 5098, 36864, 2848832
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e706d8): name, size, mSize = 5099, 36864, 2885696
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e455f8): name, size, mSize = 5100, 36864, 2922560
+I/ActivityManager(  324): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.sunil.fileexplorer/.MainActivity u=0} from pid 720
+E/SocketStream(  126): readFully was waiting for 764896 bytes, got 14480 
+E/SocketStream(  126): readFully was waiting for 750416 bytes, got 28960 
+E/SocketStream(  126): readFully was waiting for 721456 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 705264 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 689072 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 672880 bytes, got 9344 
+E/SocketStream(  126): readFully was waiting for 663536 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 647344 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 631152 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 614960 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 598768 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 582576 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 566384 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 550192 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 534000 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 517808 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 501616 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 485424 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 469232 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 453040 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 436848 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 420656 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 404464 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 388272 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 372080 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 355888 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 339696 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 323504 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 307312 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 291120 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 274928 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 258736 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 242544 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 226352 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 210160 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 193968 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 177776 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 161584 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 145392 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 129200 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 113008 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 96816 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 80624 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 64432 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 48240 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 32048 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 15856 bytes, got 11160 
+D/dalvikvm( 3974): Late-enabling CheckJNI
+I/ActivityManager(  324): Start proc com.example.sunil.fileexplorer for activity com.example.sunil.fileexplorer/.MainActivity: pid=3974 uid=10048 gids={1028}
+D/OpenGLRenderer(  720): TextureCache::flush: target size: 1753536
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4915, 614656, 2307904
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4491, 614656, 1693248
+D/AndroidRuntime( 3974): Shutting down VM
+W/dalvikvm( 3974): threadid=1: thread exiting with uncaught exception (group=0xa6277288)
+E/AndroidRuntime( 3974): FATAL EXCEPTION: main
+E/AndroidRuntime( 3974): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sunil.fileexplorer/com.example.sunil.fileexplorer.MainActivity}: java.lang.NullPointerException
+E/AndroidRuntime( 3974): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2059)
+E/AndroidRuntime( 3974): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2084)
+E/AndroidRuntime( 3974): 	at android.app.ActivityThread.access$600(ActivityThread.java:130)
+E/AndroidRuntime( 3974): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1195)
+E/AndroidRuntime( 3974): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/AndroidRuntime( 3974): 	at android.os.Looper.loop(Looper.java:137)
+E/AndroidRuntime( 3974): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+E/AndroidRuntime( 3974): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3974): 	at java.lang.reflect.Method.invoke(Method.java:511)
+E/AndroidRuntime( 3974): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+E/AndroidRuntime( 3974): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+E/AndroidRuntime( 3974): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 3974): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 3974): 	at com.example.sunil.fileexplorer.MainActivity.getDir(MainActivity.java:51)
+E/AndroidRuntime( 3974): 	at com.example.sunil.fileexplorer.MainActivity.onCreate(MainActivity.java:32)
+E/AndroidRuntime( 3974): 	at android.app.Activity.performCreate(Activity.java:5008)
+E/AndroidRuntime( 3974): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1079)
+E/AndroidRuntime( 3974): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2023)
+E/AndroidRuntime( 3974): 	... 11 more
+W/ActivityManager(  324):   Force finishing activity com.example.sunil.fileexplorer/.MainActivity
+E/SocketStream(  126): readFully was waiting for 764896 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 748704 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 732512 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 716320 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 700128 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 683936 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 667744 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 651552 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 635360 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 619168 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 602976 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 586784 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 570592 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 554400 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 538208 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 522016 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 505824 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 489632 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 473440 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 457248 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 441056 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 424864 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 408672 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 392480 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 376288 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 360096 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 343904 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 327712 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 311520 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 295328 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 279136 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 262944 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 246752 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 230560 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 214368 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 198176 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 181984 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 165792 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 149600 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 133408 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 117216 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 101024 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 84832 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 68640 bytes, got 6024 
+E/SocketStream(  126): readFully was waiting for 62616 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 46424 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 30232 bytes, got 16192 
+I/qtaguid (  324): Failed write_ctrl(s 1 10048) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10048, 1) failed with errno -1
+D/dalvikvm(  324): GC_CONCURRENT freed 884K, 22% free 16460K/20871K, paused 1ms+1ms, total 14ms
+W/ActivityManager(  324): Activity pause timeout for ActivityRecord{537205d4 com.example.sunil.fileexplorer/.MainActivity}
+I/qtaguid (  324): Failed write_ctrl(s 0 10048) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10048, 0) failed with errno -1
+I/Process ( 3974): Sending signal. PID: 3974 SIG: 9
+I/ActivityManager(  324): Process com.example.sunil.fileexplorer (pid 3974) has died.
+W/InputMethodManagerService(  324): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@53675ac4 attribute=null
+W/ActivityManager(  324): Activity destroy timeout for ActivityRecord{537205d4 com.example.sunil.fileexplorer/.MainActivity}
+W/SocketClient(  123): write error (Broken pipe)
+W/ThrottleService(  324): unable to find stats for iface rmnet0
+D/Genyd   (   57): Received Set Clipboard
+D/Genymotion(   57): Received Set Clipboard
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+D/Genyd   (   57): Received Set Clipboard
+D/Genymotion(   57): Received Set Clipboard
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+I/ClipboardService(  324): Got clipboard for user=0
+D/OpenGLRenderer(  516): TextureCache::get: create texture(0xb8e645a0): name, size, mSize = 1768, 3456, 116816
+D/dalvikvm(  800): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  578): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  324): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  516): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  654): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1071): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  720): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1107): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  596): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  788): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  565): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  631): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1197): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1213): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1225): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1239): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1586): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3143): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3172): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3188): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  800): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  578): Debugger has detached; object registry had 1 entries
+I/ActivityManager(  324): START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher u=0} from pid 324
+D/dalvikvm(  720): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  720): GC_EXPLICIT freed 277K, 47% free 17977K/33479K, paused 1ms+0ms, total 11ms
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5004, 92416, 1600832
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8db5790): name, size, mSize = 5107, 57344, 1658176
+W/SocketClient(  123): write error (Broken pipe)
+D/dalvikvm(  324): GC_CONCURRENT freed 1139K, 20% free 16726K/20871K, paused 11ms+2ms, total 22ms
+D/dalvikvm(  324): WAIT_FOR_CONCURRENT_GC blocked 1ms
+D/PhoneStatusBar(  516): disable: < EXPAND* icons alerts ticker system_info back home recent clock >
+W/SocketClient(  123): write error (Broken pipe)
+D/dalvikvm(  800): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  578): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  324): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  516): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3172): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3143): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1225): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1197): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  654): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1071): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  720): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1586): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1107): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  596): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  788): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3188): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  565): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  631): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1239): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1213): Debugger has detached; object registry had 1 entries
+I/ActivityManager(  324): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10104000 cmp=com.example.sunil.fileexplorer/.MainActivity bnds=[376,620][524,804] u=0} from pid 324
+W/genymotion_audio(  129): out_write() limiting sleep time 116462 to 39909
+E/SocketStream(  126): readFully was waiting for 764896 bytes, got 14480 
+E/SocketStream(  126): readFully was waiting for 750416 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 734224 bytes, got 12768 
+E/SocketStream(  126): readFully was waiting for 721456 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 705264 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 689072 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 672880 bytes, got 9344 
+E/SocketStream(  126): readFully was waiting for 663536 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 647344 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 631152 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 614960 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 598768 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 582576 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 566384 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 550192 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 534000 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 517808 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 501616 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 485424 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 469232 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 453040 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 436848 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 420656 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 404464 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 388272 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 372080 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 355888 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 339696 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 323504 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 307312 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 291120 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 274928 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 258736 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 242544 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 226352 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 210160 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 193968 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 177776 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 161584 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 145392 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 129200 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 113008 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 96816 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 80624 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 64432 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 48240 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 32048 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 15856 bytes, got 11160 
+D/PhoneStatusBar(  516): disable: < expand* icons alerts ticker system_info back home recent clock >
+D/dalvikvm( 4080): Late-enabling CheckJNI
+I/ActivityManager(  324): Start proc com.example.sunil.fileexplorer for activity com.example.sunil.fileexplorer/.MainActivity: pid=4080 uid=10048 gids={1028}
+W/genymotion_audio(  129): out_write() limiting sleep time 75850 to 39909
+I/qtaguid (  324): Failed write_ctrl(s 1 10048) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10048, 1) failed with errno -1
+D/OpenGLRenderer(  720): TextureCache::flush: target size: 994905
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4155, 614656, 1043520
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5005, 36864, 1006656
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4923, 57344, 949312
+D/AndroidRuntime( 4080): Shutting down VM
+W/dalvikvm( 4080): threadid=1: thread exiting with uncaught exception (group=0xa6277288)
+E/AndroidRuntime( 4080): FATAL EXCEPTION: main
+E/AndroidRuntime( 4080): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sunil.fileexplorer/com.example.sunil.fileexplorer.MainActivity}: java.lang.NullPointerException
+E/AndroidRuntime( 4080): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2059)
+E/AndroidRuntime( 4080): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2084)
+E/AndroidRuntime( 4080): 	at android.app.ActivityThread.access$600(ActivityThread.java:130)
+E/AndroidRuntime( 4080): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1195)
+E/AndroidRuntime( 4080): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+E/AndroidRuntime( 4080): 	at android.os.Looper.loop(Looper.java:137)
+E/AndroidRuntime( 4080): 	at android.app.ActivityThread.main(ActivityThread.java:4745)
+E/AndroidRuntime( 4080): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 4080): 	at java.lang.reflect.Method.invoke(Method.java:511)
+E/AndroidRuntime( 4080): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+E/AndroidRuntime( 4080): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+E/AndroidRuntime( 4080): 	at dalvik.system.NativeStart.main(Native Method)
+E/AndroidRuntime( 4080): Caused by: java.lang.NullPointerException
+E/AndroidRuntime( 4080): 	at com.example.sunil.fileexplorer.MainActivity.getDir(MainActivity.java:51)
+E/AndroidRuntime( 4080): 	at com.example.sunil.fileexplorer.MainActivity.onCreate(MainActivity.java:32)
+E/AndroidRuntime( 4080): 	at android.app.Activity.performCreate(Activity.java:5008)
+E/AndroidRuntime( 4080): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1079)
+E/AndroidRuntime( 4080): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2023)
+E/AndroidRuntime( 4080): 	... 11 more
+W/ActivityManager(  324):   Force finishing activity com.example.sunil.fileexplorer/.MainActivity
+E/SocketStream(  126): readFully was waiting for 764896 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 748704 bytes, got 16192 
+W/genymotion_audio(  129): out_write() limiting sleep time 59523 to 39909
+E/SocketStream(  126): readFully was waiting for 732512 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 716320 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 700128 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 683936 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 667744 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 651552 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 635360 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 619168 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 602976 bytes, got 13288 
+E/SocketStream(  126): readFully was waiting for 589688 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 573496 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 557304 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 541112 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 524920 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 508728 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 492536 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 476344 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 460152 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 443960 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 427768 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 411576 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 395384 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 379192 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 363000 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 346808 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 330616 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 314424 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 298232 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 282040 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 265848 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 249656 bytes, got 13280 
+E/SocketStream(  126): readFully was waiting for 236376 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 220184 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 203992 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 187800 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 171608 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 155416 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 139224 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 123032 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 106840 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 90648 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 74456 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 58264 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 42072 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 25880 bytes, got 16192 
+W/genymotion_audio(  129): out_write() limiting sleep time 41383 to 39909
+D/dalvikvm(  324): GC_CONCURRENT freed 841K, 18% free 17289K/20871K, paused 11ms+3ms, total 41ms
+W/ActivityManager(  324): Activity pause timeout for ActivityRecord{536b8a40 com.example.sunil.fileexplorer/.MainActivity}
+I/qtaguid (  324): Failed write_ctrl(s 0 10048) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10048, 0) failed with errno -1
+W/SocketClient(  123): write error (Broken pipe)
+I/Process ( 4080): Sending signal. PID: 4080 SIG: 9
+I/ActivityManager(  324): Process com.example.sunil.fileexplorer (pid 4080) has died.
+W/genymotion_audio(  129): out_write() limiting sleep time 116462 to 39909
+W/InputMethodManagerService(  324): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@536b9324 attribute=android.view.inputmethod.EditorInfo@53697d60
+W/genymotion_audio(  129): out_write() limiting sleep time 84376 to 39909
+W/genymotion_audio(  129): out_write() limiting sleep time 58435 to 39909
+D/dalvikvm(  800): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  578): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  324): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  516): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3172): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3143): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1225): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1197): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  654): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1071): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  720): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1586): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1107): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  596): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  788): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3188): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  565): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  631): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1239): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1213): Debugger has detached; object registry had 1 entries
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8df45d8): name, size, mSize = 5197, 614656, 1563968
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8df46b8): name, size, mSize = 5198, 614656, 2178624
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8df47d8): name, size, mSize = 5199, 614656, 2793280
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e075c0): name, size, mSize = 5204, 38400, 2831680
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e62860): name, size, mSize = 5205, 16384, 2848064
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e71e20): name, size, mSize = 5206, 1344, 2849408
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8db28d8): name, size, mSize = 5207, 96, 2849504
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e2c0): name, size, mSize = 5208, 16384, 2865888
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e2f0): name, size, mSize = 5209, 448, 2866336
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e320): name, size, mSize = 5210, 16384, 2882720
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e350): name, size, mSize = 5211, 448, 2883168
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e380): name, size, mSize = 5212, 16384, 2899552
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e3b0): name, size, mSize = 5213, 16384, 2915936
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e3e3e0): name, size, mSize = 5214, 1344, 2917280
+D/dalvikvm(  800): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  578): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  324): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  516): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3172): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3143): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1225): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1197): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  654): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1071): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  720): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1586): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1107): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  596): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  788): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3188): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  565): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  631): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1239): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1213): Debugger has detached; object registry had 1 entries
+W/ActivityManager(  324): Activity destroy timeout for ActivityRecord{536b8a40 com.example.sunil.fileexplorer/.MainActivity}
+D/dalvikvm(  578): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  800): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  324): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  516): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1225): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3172): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3143): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  654): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1197): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1071): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  720): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1107): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1586): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  565): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  596): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  788): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 3188): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1239): Debugger has detached; object registry had 1 entries
+D/dalvikvm(  631): Debugger has detached; object registry had 1 entries
+D/dalvikvm( 1213): Debugger has detached; object registry had 1 entries
+W/SocketClient(  123): write error (Broken pipe)
+W/SocketClient(  123): write error (Broken pipe)
+I/ActivityManager(  324): START {flg=0x10000000 cmp=com.android.deskclock/.AlarmClock bnds=[216,249][504,617] u=0} from pid -1
+W/genymotion_audio(  129): out_write() limiting sleep time 116462 to 39909
+E/SocketStream(  126): readFully was waiting for 764896 bytes, got 8688 
+E/SocketStream(  126): readFully was waiting for 756208 bytes, got 5792 
+E/SocketStream(  126): readFully was waiting for 750416 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 734224 bytes, got 12768 
+E/SocketStream(  126): readFully was waiting for 721456 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 705264 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 689072 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 672880 bytes, got 9344 
+E/SocketStream(  126): readFully was waiting for 663536 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 647344 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 631152 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 614960 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 598768 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 582576 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 566384 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 550192 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 534000 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 517808 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 501616 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 485424 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 469232 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 453040 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 436848 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 420656 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 404464 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 388272 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 372080 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 355888 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 339696 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 323504 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 307312 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 291120 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 274928 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 258736 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 242544 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 226352 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 210160 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 193968 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 177776 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 161584 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 145392 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 129200 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 113008 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 96816 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 80624 bytes, got 10768 
+E/SocketStream(  126): readFully was waiting for 69856 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 53664 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 37472 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 21280 bytes, got 16192 
+W/genymotion_audio(  129): out_write() limiting sleep time 76213 to 39909
+I/qtaguid (  324): Failed write_ctrl(s 1 10012) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10012, 1) failed with errno -1
+D/OpenGLRenderer(  720): TextureCache::flush: target size: 1750368
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5083, 36864, 2880416
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5084, 36864, 2843552
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5085, 36864, 2806688
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5086, 36864, 2769824
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5087, 36864, 2732960
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5088, 36864, 2696096
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5089, 36864, 2659232
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5090, 36864, 2622368
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5091, 36864, 2585504
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5092, 36864, 2548640
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5094, 36864, 2511776
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5095, 36864, 2474912
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5096, 36864, 2438048
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5097, 36864, 2401184
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5098, 36864, 2364320
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5099, 36864, 2327456
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5100, 36864, 2290592
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5008, 128, 2290464
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5009, 256, 2290208
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5204, 38400, 2251808
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5205, 16384, 2235424
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5206, 1344, 2234080
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5208, 16384, 2217696
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5209, 448, 2217248
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5210, 16384, 2200864
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5212, 16384, 2184480
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5211, 448, 2184032
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5207, 96, 2183936
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5213, 16384, 2167552
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5214, 1344, 2166208
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4927, 36864, 2129344
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4926, 576, 2128768
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4912, 1600, 2127168
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4913, 576, 2126592
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 4914, 36864, 2089728
+D/OpenGLRenderer(  720): TextureCache::callback: name, removed size, mSize = 5197, 614656, 1475072
+W/genymotion_audio(  129): out_write() limiting sleep time 54625 to 39909
+W/genymotion_audio(  129): out_write() limiting sleep time 53922 to 39909
+W/EGL_genymotion(  800): eglSurfaceAttrib not implemented
+D/OpenGLRenderer(  800): TextureCache::get: create texture(0xb8cc1808): name, size, mSize = 1207, 1048576, 1098752
+W/SocketClient(  123): write error (Broken pipe)
+D/OpenGLRenderer(  800): TextureCache::get: create texture(0xb8cfaf18): name, size, mSize = 1208, 16384, 1115136
+D/OpenGLRenderer(  800): TextureCache::get: create texture(0xb8cd16c8): name, size, mSize = 1209, 16, 1115152
+D/OpenGLRenderer(  800): TextureCache::get: create texture(0xb8cbd048): name, size, mSize = 1210, 23716, 1138868
+D/OpenGLRenderer(  800): TextureCache::get: create texture(0xb8d13300): name, size, mSize = 1211, 16384, 1155252
+I/ActivityManager(  324): Displayed com.android.deskclock/.AlarmClock: +983ms (total +18m25s548ms)
+I/qtaguid (  324): Failed write_ctrl(s 0 10021) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10021, 0) failed with errno -1
+E/SocketStream(  126): readFully was waiting for 764896 bytes, got 14480 
+E/SocketStream(  126): readFully was waiting for 750416 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 734224 bytes, got 12768 
+E/SocketStream(  126): readFully was waiting for 721456 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 705264 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 689072 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 672880 bytes, got 9344 
+E/SocketStream(  126): readFully was waiting for 663536 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 647344 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 631152 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 614960 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 598768 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 582576 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 566384 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 550192 bytes, got 2496 
+E/SocketStream(  126): readFully was waiting for 547696 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 531504 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 515312 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 499120 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 482928 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 466736 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 450544 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 434352 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 418160 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 401968 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 385776 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 369584 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 353392 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 337200 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 321008 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 304816 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 288624 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 272432 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 256240 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 240048 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 223856 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 207664 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 191472 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 175280 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 159088 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 142896 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 126704 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 110512 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 94320 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 78128 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 61936 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 45744 bytes, got 16192 
+E/SocketStream(  126): readFully was waiting for 29552 bytes, got 16192 
+I/qtaguid (  324): Failed write_ctrl(s 1 10021) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10021, 1) failed with errno -1
+W/EGL_genymotion(  720): eglSurfaceAttrib not implemented
+W/InputMethodManagerService(  324): Starting input on non-focused client com.android.internal.view.IInputMethodClient$Stub$Proxy@5378b370 (uid=10012 pid=800)
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8cbca80): name, size, mSize = 6123, 1600, 1476672
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8ccf220): name, size, mSize = 6124, 576, 1477248
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8e71080): name, size, mSize = 6125, 36864, 1514112
+D/OpenGLRenderer(  720): TextureCache::get: create texture(0xb8df45d8): name, size, mSize = 6126, 614656, 2128768
+W/SocketClient(  123): write error (Broken pipe)
+D/dalvikvm(  800): WAIT_FOR_CONCURRENT_GC blocked 0ms
+D/dalvikvm(  800): GC_EXPLICIT freed 313K, 5% free 11178K/11719K, paused 0ms+0ms, total 5ms
+I/qtaguid (  324): Failed write_ctrl(s 0 10012) res=-1 errno=1
+W/NetworkManagementSocketTagger(  324): setKernelCountSet(10012, 0) failed with errno -1
+D/OpenGLRenderer(  800): TextureCache::flush: target size: 693151
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1152, 9216, 1146036
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1153, 4096, 1141940
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1154, 36864, 1105076
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1208, 16384, 1088692
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1210, 23716, 1064976
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1211, 16384, 1048592
+D/OpenGLRenderer(  800): TextureCache::callback: name, removed size, mSize = 1207, 1048576, 16
+D/dalvikvm(  324): GC_CONCURRENT freed 2608K, 23% free 16210K/20871K, paused 11ms+1ms, total 21ms
