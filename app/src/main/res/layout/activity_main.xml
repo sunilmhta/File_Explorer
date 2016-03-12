@@ -14,7 +14,7 @@
 
         <TextView
             android:id="@+id/path"
-            android:layout_width="340dp"
+            android:layout_width="330dp"
             android:layout_height="fill_parent"
             android:textSize="25sp"
             android:textStyle="italic"/>
@@ -44,15 +44,18 @@
         android:layout_height="35dp"
         android:layout_width="match_parent"
         android:background="#FFD700"
-        android:id="@+id/linearLayout2">
-
+        android:id="@+id/linearLayout2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:weightSum="1">
 
         <Button
             style="?android:attr/buttonStyleSmall"
-            android:layout_width="60dp"
-            android:layout_height="wrap_content"
-            android:text="NF"
-            android:id="@+id/button2" />
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/New_Folder_Btn"
+            android:id="@+id/New_Folder_Btn"
+            android:layout_weight="0.28" />
     </LinearLayout>
 
 </RelativeLayout>
