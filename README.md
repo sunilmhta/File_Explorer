@@ -45,4 +45,4 @@ ___
    - Shivam Shakti <s.shakti@iitg.ernet.in>
    - Sunil Kumar <sunilk.2014@iitg.ernet.in>
 
-**Note:** This project is still in alpha phase. It is likely to be completed around first week of May'16. Any contributions to this project are welcome. 
+**Note:** This project is still in initial phase. It is likely to be completed around first week of May'16. Any contributions to this project are welcome. 
