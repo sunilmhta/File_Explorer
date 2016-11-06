@@ -1,4 +1,4 @@
-# Amazing File Manager
+# GS3 File Manager
 
 #### About:
 >This is a tag based file manager for androids. It has all the features which are available in a simple file manager with some external features like tagging the files.
@@ -25,7 +25,7 @@ ___
 **License:**
 	*GPL V.3*
 	
-    Amazing File Manager, an open source file manager for the Android system
+    GS3 File Manager, an open source file manager for the Android system
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -38,11 +38,3 @@ ___
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    
-##### Authors:
-   - Gaurav Anand <gaurav.anand@iitg.ernet.in>
-   - Shirshak Kumar <shirshak@iitg.ernet.in>
-   - Shivam Shakti <s.shakti@iitg.ernet.in>
-   - Sunil Kumar <sunilk.2014@iitg.ernet.in>
-
-**Note:** This project is still in initial phase. It is likely to be completed around first week of May'16. Any contributions to this project are welcome. 
